@@ -1,0 +1,263 @@
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.Development.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.exe
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.deps.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.runtimeconfig.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.pdb
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.AssemblyReference.cache
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfoInputs.cache
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfo.cs
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.CoreCompileInputs.cache
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.web_project_BE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.build.web_project_BE.props
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_project_BE.props
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_project_BE.props
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.build.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.development.json
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\scopedcss\bundle\web_project_BE.styles.css
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.CopyComplete
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\refint\web_project_BE.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.pdb
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.genruntimeconfig.cache
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\ref\web_project_BE.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Core.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Identity.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Humanizer.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\MailKit.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\MimeKit.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4j.Driver.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.DataAnnotations.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.CodeDom.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Learning\TopUp\Graduation Project (COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.AssemblyReference.cache
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfoInputs.cache
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfo.cs
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.CoreCompileInputs.cache
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\refint\web_project_BE.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.pdb
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.Development.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.exe
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.deps.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.runtimeconfig.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.pdb
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Core.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Identity.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Humanizer.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\MailKit.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\MimeKit.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4j.Driver.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.DataAnnotations.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.CodeDom.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.web_project_BE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.build.web_project_BE.props
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_project_BE.props
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_project_BE.props
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.build.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.development.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\scopedcss\bundle\web_project_BE.styles.css
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.CopyComplete
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.genruntimeconfig.cache
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\obj\Debug\net7.0\ref\web_project_BE.dll
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.staticwebassets.runtime.json
+D:\Learning\TopUp\Graduation_Project_(COMP1682)\Term 2\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.Development.json
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\appsettings.json
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.staticwebassets.runtime.json
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.exe
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.deps.json
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.runtimeconfig.json
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\web_project_BE.pdb
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Core.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Azure.Identity.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Humanizer.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\MailKit.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\MimeKit.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4j.Driver.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Neo4jClient.DataAnnotations.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.CodeDom.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Memory.Data.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\back-end-final\web_project_BE\web_project_BE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.AssemblyReference.cache
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfoInputs.cache
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.AssemblyInfo.cs
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.csproj.CoreCompileInputs.cache
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cs
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.MvcApplicationPartsAssemblyInfo.cache
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.sourcelink.json
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.build.json
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.development.json
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.web_project_BE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.build.web_project_BE.props
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.web_project_BE.props
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.web_project_BE.props
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\scopedcss\bundle\web_project_BE.styles.css
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_proj.2F1AEC12.Up2Date
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.dll
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\refint\web_project_BE.dll
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.pdb
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\web_project_BE.genruntimeconfig.cache
+D:\back-end-final\web_project_BE\web_project_BE\obj\Debug\net7.0\ref\web_project_BE.dll
